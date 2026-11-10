@@ -5,7 +5,7 @@
 **Componente:** Desenvolvimento de Sistemas I — Agenda 15 (Fichário)
 
 🔗 **Site publicado:** https://SEU-USUARIO.github.io/portfolio/
-📁 **Repositório:** https://github.com/SEU-USUARIO/portfolio
+📁 **Repositório:** https://github.com/SEU-USUARIO/portfolio](https://github.com/aagit89/portfolio
 
 ---
 
