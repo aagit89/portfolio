@@ -1,0 +1,36 @@
+/* Rolagem suave ao clicar no menu */
+html {
+    scroll-behavior: smooth;
+}
+
+/* Altura das imagens do carousel */
+.carousel-item img {
+    height: 70vh;
+    object-fit: cover;
+}
+
+/* Texto centralizado no meio do slide */
+.carousel-caption {
+    top: 50%;
+    bottom: auto;
+    transform: translateY(-50%);
+}
+
+/* RECURSO NOVO: animação hover nos cards dos projetos */
+.card {
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+}
+
+/* RECURSO NOVO: foto de perfil aumenta ao passar o mouse */
+.foto {
+    transition: transform 0.3s;
+}
+
+.foto:hover {
+    transform: scale(1.1);
+}
