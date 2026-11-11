@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450"><defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#5b21b6"/><stop offset="1" stop-color="#9d4edd"/></linearGradient></defs><rect width="800" height="450" fill="url(#g)"/><rect x="170" y="80" width="460" height="290" rx="16" fill="#1e1e2e"/>
-<rect x="170" y="80" width="460" height="40" rx="16" fill="#2b2b3d"/><circle cx="198" cy="100" r="7" fill="#ff6b6b"/><circle cx="222" cy="100" r="7" fill="#ffd166"/><circle cx="246" cy="100" r="7" fill="#06d6a0"/>
-<g font-family="Consolas, monospace" font-size="22"><text x="200" y="165" fill="#c792ea">def</text><text x="250" y="165" fill="#82aaff">calcular</text><text x="358" y="165" fill="#fff">(nota):</text>
-<text x="230" y="205" fill="#c792ea">if</text><text x="262" y="205" fill="#fff">nota &gt;= </text><text x="360" y="205" fill="#f78c6c">6</text><text x="375" y="205" fill="#fff">:</text>
-<text x="260" y="245" fill="#c792ea">return</text><text x="345" y="245" fill="#c3e88d">"Aprovado"</text>
-<text x="200" y="300" fill="#ffd166">&gt;&gt;&gt;</text><text x="250" y="300" fill="#fff">calcular(8)</text><text x="200" y="335" fill="#c3e88d">'Aprovado'</text></g></svg>
